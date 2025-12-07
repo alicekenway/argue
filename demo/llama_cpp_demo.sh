@@ -1,0 +1,2 @@
+/home/alicekenway/miniconda3/envs/argue/bin/python /home/alicekenway/Dev/project/argue/demo/llama_cpp_demo.py \
+--model-path /home/alicekenway/Dev/project/argue/models/Qwen3-8B-GGUF/Qwen3-8B-Q4_K_M.gguf 

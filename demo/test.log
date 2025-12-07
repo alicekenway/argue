@@ -1,0 +1,14 @@
+Loading model from: /home/alicekenway/Dev/project/argue/models/Qwen3-8B-GGUF/Qwen3-8B-Q4_K_M.gguf
+
+=== Single completion demo ===
+Model answer: The capital of France is Paris.
+
+=== Interactive demo ===
+Type 'quit' or 'exit' to stop.
+
+You: Assistant: Hello! How can I assist you today?
+
+You: Assistant: Okay, the user wants a story. Let me think about what kind of story they might enjoy. Maybe something with a moral or a fantasy element. I should start with a setting to draw them in. A village near a forest? That's a classic setup. Now, a character... perhaps a curious child? Kids are relatable. Let's name her Lila. She discovers something magical, like a glowing stone. That could lead to an adventure. Wait, the stone could have a purpose, like healing or something. Maybe it's a test of courage. Oh, and a conflict—maybe the stone is guarded by a creature
+
+You: 
+Exiting.
