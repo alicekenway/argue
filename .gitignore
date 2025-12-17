@@ -1,2 +1,3 @@
 models/*
 v2/llama_cpp/llama.cpp
+test/v2_1/ts-chatbot/node_modules
